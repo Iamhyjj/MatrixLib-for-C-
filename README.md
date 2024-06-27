@@ -1,4 +1,4 @@
-# <center> Matrix Lib for C++
+# <center> Matrix Lib for C++(Unfinished yet)
 ## Intruduction
 This is a simple Matrix Lib for C++ which is based on my former Matrix Lib for C(https://github.com/Iamhyjj/Matrix-Lib-for-C).  
 It supports basic matrix caculations and operations:  
