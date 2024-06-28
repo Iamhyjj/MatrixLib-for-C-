@@ -5,7 +5,7 @@ It supports basic matrix caculations and operations:
 (1)+ (+=) , - (-=) , * (*=) , = , <<  
 (2)transpose  
 (3)determinant calculation(unfinished)  
-(4)Gauss-Jordan elinimation(unfinished)  
+(4)Gaussion elinimation   
 ## Basic features of Class Matrix
 (1)Template Class  
 The element type of matrix is up to you, you can declare it when creating  
