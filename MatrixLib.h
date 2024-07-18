@@ -40,7 +40,7 @@ class Matrix
 
         size_t cols()const {return cols_;}
 
-        const std::vector<std::vector<T>>& data() const {return *data_;}
+        const std::vector<std::vector<T>> data() const {return *data_;}
         
         Matrix operator+(const Matrix& other) const{
             if(rows_ != other.rows() || cols_ != other.cols()){
